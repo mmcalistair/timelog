@@ -1,0 +1,13 @@
+{
+  "name": "TimeLogServer",
+  "version": "0.0.0",
+  "description": "TimeLogServer",
+  "main": "app.js",
+  "author": {
+    "name": "mmcal",
+    "email": ""
+  },
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
